@@ -1,0 +1,6 @@
+{
+  "name": "Smart AI Whiteboard",
+  "description": "Smart AI digital whiteboard with handwriting recognition, AI shape assistant, math formulas, graphs, PDF annotations, and offline notebooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
